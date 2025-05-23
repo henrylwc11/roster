@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CSV2ICS
+name: convert prefine roster from csv to ics
 
 # Controls when the workflow will runf
 on:
